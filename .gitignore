@@ -1,3 +1,5 @@
+.ipynb_checkpoints/
+refined_category_dataset.dat
 refined_category_dataset.img_feature.dat
 refined_category_dataset.img_feature.eval.dat
 soma8_eval_data.dat
